@@ -1,20 +1,14 @@
 # Xtreme_heat
 
-# 1. Project title & abstract
-
-## Title:
+# 1. Project title
 
 Longer heat pulses disrupt bacterial communities by decoupling resistance from recovery.
 
-## Abstract:
-
-Abstract coming soon.
-
 # 2. Project description
 
-This GitHub repository was created to facilitate the reproducibility of the scientific article listed above. As this article may currently be under double annonymous peer review, we have not yet included the pre-print link here.
+This GitHub repository was created to facilitate the reproducibility of the scientific article listed above. This branch (anon) was created as a double anonymous peer review (DAPR) compliant open repository so any identifiers have been removed. If you're not interested in the DAPR version, please head over to the main branch.
 
-The complete protocols, data, and analysis for the manuscript can be found here. The raw flow cytometry data for each of the 5 heat pulse durations can be found at these anonymous review links: https://figshare.com/s/d81c927071951ba776e7, https://figshare.com/s/4fbdd4550e7a16752044, https://figshare.com/s/183d7cb990b1e2ab76a8, https://figshare.com/s/cb37922b5ebabc628642, and https://figshare.com/s/fd044109578f5c582c81
+The complete protocols, data, and analysis for the manuscript can be found in this repository. The only data that is *not* found here are the flow cytometry data and FCS Express analysis because those files are too big. Those can be found at the following FigShare anonymous review links: https://figshare.com/s/d81c927071951ba776e7, https://figshare.com/s/4fbdd4550e7a16752044, https://figshare.com/s/183d7cb990b1e2ab76a8, https://figshare.com/s/cb37922b5ebabc628642, and https://figshare.com/s/fd044109578f5c582c81
 
 # 3. File structure
 
@@ -32,7 +26,7 @@ The 2 R Notebooks files with the prefix "main_expt--" are dependent on one anoth
 
 The subfolder "./raw_data" contains several subsubfolders that are prefixed with "serial_transf--" followed by a date (i.e., corresponding to the starting date of that experiment). This is the data for the serial transfer experiment: csv files with the flow cytometry cell counts from FCS Express, xlsx files with the flow cytometry well volume from Attune, and txt files with the OD data.
 
-Note that the data and analysis of the supernatant experiments is not (yet?) available.
+As yet, the protocol, data, and analysis of the spent media experiments performed by Zachary Bailey are not available here (yet?).
 
 ## Writing folder
 
@@ -40,4 +34,4 @@ Finally, there is a main folder called "writing". Here you can find docx files f
 
 # 4. Credits for repository
 
-[Temporarily removed for peer review]
+[Redacted on this DAPR compliant branch. Please refer to the main branch.]
