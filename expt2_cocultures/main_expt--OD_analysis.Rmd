@@ -1,6 +1,6 @@
 ---
 title: "Resistance & recovery 4-sp communities: Analyze OD data"
-author: "Hermina"
+author: "1st author"
 Date: "2025-02-19"
 output:
   html_document:

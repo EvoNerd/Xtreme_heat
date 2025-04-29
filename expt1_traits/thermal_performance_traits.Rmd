@@ -1,6 +1,6 @@
 ---
 title: "Thermal performance: CFUs and growth curves time-to-detection analyses"
-author: "Hermina and Anjaney"
+author: "1st & 2nd authors"
 Date: "2025-02-05"
 output:
   html_document:
@@ -15,9 +15,9 @@ output:
 
 # Introduction
 
-This notebook is for analyzing the temperature growth curves data produced by Anjaney and Hermina, as well as the survival CFU data produced by Hermina. It summarizes the findings for publication. This notebook was created by copying the relevant sections from `Anjaney_analysis--hermina_redo.Rmd` and `plate_reader_calibration.Rmd`.
+This notebook is for analyzing the temperature growth curves data produced by 1st & 2nd authors, as well as the survival CFU data produced by 1st author. It summarizes the findings for publication. This notebook was created by copying the relevant sections from `XXX.Rmd` and `plate_reader_calibration.Rmd`.
 
-The goal is to describe the thermal niche of different *Pseudomonas* strains present in the Terrestrial Ecology lab of Maddy Thakur (University of Bern). The main question the experiments are trying to answer: Is there a relationship between a strain's growth (fast VS slow grower) and its thermal niche?
+The goal is to describe the thermal niche of different *Pseudomonas* strains present in the XXX lab of XXX (XXX). The main question the experiments are trying to answer: Is there a relationship between a strain's growth (fast VS slow grower) and its thermal niche?
 
 See the associated manuscript for more details. This notebook covers all analyses performed for Experiment I in the manuscript.
 
